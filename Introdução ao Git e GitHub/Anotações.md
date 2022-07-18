@@ -2,7 +2,7 @@
 
 [Comandos Básicos de Terminal](#Comandos-Básicos-de-Terminal)
 
-[Comandos Diferentes de Cada OS](#Comandos Diferentes de Cada OS)
+[Comandos Diferentes de Cada OS](#Comandos-Diferentes-de-Cada-OS)
 
 [Comandos do Git](#Comandos-do-Git)
 
